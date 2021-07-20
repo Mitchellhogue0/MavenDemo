@@ -9,5 +9,7 @@ public class MavenDemoApp {
         String computerJson = new Gson().toJson(computer);
 
         System.out.println(computerJson);
+
+        System.out.println("this is a test");
     }
 }
